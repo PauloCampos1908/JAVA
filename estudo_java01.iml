@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" inherit-compiler-output="true">
-    <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-    </content>
-    <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-</module>
+public class Main{
+   byte  = 100;
+   short s = 10000;
+   int i = 100000;
+   long l = 100000L;
+   float f = 10.5f;
+   double d = 20.5;
+   char c = 'A';
+   boolean bool = true;
+
+}
